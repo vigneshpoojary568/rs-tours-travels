@@ -22,16 +22,44 @@
 }
 
 @layer base {
+  *,
+  *::before,
+  *::after {
+    box-sizing: border-box;
+  }
+
+  html {
+    width: 100%;
+    min-width: 0;
+  }
+
   body {
+    margin: 0;
+    width: 100%;
+    min-width: 0;
     background-color: #F7F3EA;
     color: #073B35;
     font-family: var(--font-sans);
     overflow-x: hidden;
   }
 
-  h1, h2, h3, h4, .font-serif-heading {
+  #root {
+    width: 100%;
+    min-width: 0;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  .font-serif-heading {
     font-family: var(--font-serif);
     text-wrap: balance;
+  }
+
+  img,
+  video {
+    max-width: 100%;
   }
 }
 
@@ -39,46 +67,46 @@
 ::-webkit-scrollbar {
   width: 8px;
 }
+
 ::-webkit-scrollbar-track {
   background: #F7F3EA;
 }
+
 ::-webkit-scrollbar-thumb {
   background: #0B5D5A;
   border-radius: 4px;
 }
+
 ::-webkit-scrollbar-thumb:hover {
   background: #073B35;
 }
-/* Mobile responsive layout fix */
+
+/* Mobile layout adjustments */
 @media screen and (max-width: 768px) {
   html,
   body,
   #root {
-    width: 100%;
     max-width: 100%;
-    margin: 0;
-    overflow-x: clip;
-  }
-
-  *,
-  *::before,
-  *::after {
-    box-sizing: border-box;
-  }
-
-  img,
-  video {
-    max-width: 100%;
+    overflow-x: hidden;
   }
 
   h1 {
-    font-size: clamp(2rem, 7vw, 3rem);
-    line-height: 1.15;
-    overflow-wrap: break-word;
+    font-size: clamp(1.8rem, 7vw, 2.5rem);
+    line-height: 1.2;
+    overflow-wrap: anywhere;
+  }
+
+  h2 {
+    overflow-wrap: anywhere;
   }
 
   p {
     overflow-wrap: break-word;
+  }
+
+  img,
+  video {
+    height: auto;
   }
 
   button {
