@@ -22,44 +22,16 @@
 }
 
 @layer base {
-  *,
-  *::before,
-  *::after {
-    box-sizing: border-box;
-  }
-
-  html {
-    width: 100%;
-    min-width: 0;
-  }
-
   body {
-    margin: 0;
-    width: 100%;
-    min-width: 0;
     background-color: #F7F3EA;
     color: #073B35;
     font-family: var(--font-sans);
     overflow-x: hidden;
   }
 
-  #root {
-    width: 100%;
-    min-width: 0;
-  }
-
-  h1,
-  h2,
-  h3,
-  h4,
-  .font-serif-heading {
+  h1, h2, h3, h4, .font-serif-heading {
     font-family: var(--font-serif);
     text-wrap: balance;
-  }
-
-  img,
-  video {
-    max-width: 100%;
   }
 }
 
@@ -79,37 +51,4 @@
 
 ::-webkit-scrollbar-thumb:hover {
   background: #073B35;
-}
-
-/* Mobile layout adjustments */
-@media screen and (max-width: 768px) {
-  html,
-  body,
-  #root {
-    max-width: 100%;
-    overflow-x: hidden;
-  }
-
-  h1 {
-    font-size: clamp(1.8rem, 7vw, 2.5rem);
-    line-height: 1.2;
-    overflow-wrap: anywhere;
-  }
-
-  h2 {
-    overflow-wrap: anywhere;
-  }
-
-  p {
-    overflow-wrap: break-word;
-  }
-
-  img,
-  video {
-    height: auto;
-  }
-
-  button {
-    max-width: 100%;
-  }
 }
