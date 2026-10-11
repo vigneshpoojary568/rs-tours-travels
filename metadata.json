@@ -1,0 +1,6 @@
+{
+  "name": "RS Tours & Travels",
+  "description": "Premium travel and tour experiences. Not just a trip… it’s a story. Explore mountains, rivers, customized holiday packages, and family escapes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
