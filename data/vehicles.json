@@ -1,0 +1,183 @@
+[
+  {
+    "id": "veh-1791694717500-95034e",
+    "name": "Maruti Suzuki Ciaz",
+    "seatingCapacity": "4+1 Seater",
+    "seatsCount": 5,
+    "category": "Sedan",
+    "acType": "Dual Zone Automatic AC",
+    "luggageCapacity": "4 Large Bags",
+    "features": [
+      "Pushback Luxury Seats",
+      "Experienced Mountain Chauffeur",
+      "Sanitized & GPS Enabled"
+    ],
+    "enabled": true,
+    "featured": false,
+    "pricePerKm": "₹18 / km",
+    "dailyRate": "₹3,800 / day",
+    "fuelType": "Diesel",
+    "idealFor": "Family trips & Western Ghats drives",
+    "isAc": true,
+    "image": "/uploads/vehicles/veh-1791694717500-95034e-1791694717500.webp"
+  },
+  {
+    "id": "veh-1791694573361-600666",
+    "name": "Force Traveller",
+    "seatingCapacity": "12+1 Seater",
+    "seatsCount": 13,
+    "category": "Tempo Traveller",
+    "acType": "Dual Zone Automatic AC",
+    "luggageCapacity": "5 Large Bags",
+    "features": [
+      "Pushback Luxury Seats",
+      "Experienced Mountain Chauffeur",
+      "Sanitized & GPS Enabled"
+    ],
+    "enabled": true,
+    "featured": true,
+    "description": "Enjoy spacious seating, premium comfort, and a smooth journey with the Force Traveller, ideal for group tours, family trips, corporate travel, and outstation journeys.",
+    "pricePerKm": "₹18 / km",
+    "fuelType": "Diesel",
+    "idealFor": "Family trips & Western Ghats drives",
+    "isAc": true,
+    "image": "/uploads/vehicles/veh-1791694573361-600666-1791694573361.webp"
+  },
+  {
+    "id": "veh-1791694439320-c66197",
+    "name": "Swift Dzire",
+    "seatingCapacity": "4+1 Seater",
+    "seatsCount": 5,
+    "category": "Sedan",
+    "acType": "Dual Zone Automatic AC",
+    "luggageCapacity": "3 Large Bags",
+    "features": [
+      "Pushback Luxury Seats",
+      "Experienced Mountain Chauffeur",
+      "Sanitized & GPS Enabled"
+    ],
+    "enabled": true,
+    "featured": true,
+    "registrationNumber": "KA04AE2429",
+    "description": "Enjoy spacious seating, premium comfort, and a smooth journey with the Force Urbania, ideal for group tours, family trips, corporate travel, and outstation journeys.",
+    "pricePerKm": "₹18 / km",
+    "fuelType": "Diesel",
+    "idealFor": "Family trips & Western Ghats drives",
+    "isAc": true,
+    "image": "/uploads/vehicles/veh-1791694439320-c66197-1791694439321.webp"
+  },
+  {
+    "id": "veh-1791694328934-ae9213",
+    "name": "Toyota Etios",
+    "seatingCapacity": "4+1 Seater",
+    "seatsCount": 5,
+    "category": "Sedan",
+    "acType": "Dual Zone Automatic AC",
+    "luggageCapacity": "3 Large Bags",
+    "features": [
+      "Pushback Luxury Seats",
+      "Experienced Mountain Chauffeur",
+      "Sanitized & GPS Enabled"
+    ],
+    "enabled": true,
+    "featured": true,
+    "registrationNumber": "KA51AD9741",
+    "description": "Enjoy a smooth and economical ride with the Toyota Etios, ideal for city travel, airport transfers, and comfortable outstation journeys",
+    "pricePerKm": "₹18 / km",
+    "fuelType": "Diesel",
+    "idealFor": "Family trips & Western Ghats drives",
+    "isAc": true,
+    "image": "/uploads/vehicles/veh-1791694328934-ae9213-1791694328934.webp"
+  },
+  {
+    "id": "veh-1791694171848-9eb4af",
+    "name": "Maruti Suzuki Ertiga",
+    "seatingCapacity": "6+1 Seater",
+    "seatsCount": 7,
+    "category": "MPV",
+    "acType": "Dual Zone Automatic AC",
+    "luggageCapacity": "4 Large Bags",
+    "features": [
+      "Pushback Luxury Seats",
+      "Experienced Mountain Chauffeur",
+      "Sanitized & GPS Enabled"
+    ],
+    "enabled": true,
+    "featured": false,
+    "registrationNumber": "KA13AA6423",
+    "description": "Enjoy a comfortable and budget-friendly ride with the Maruti Suzuki Ertiga, perfect for family trips, airport transfers, and outstation travel.",
+    "pricePerKm": "₹18 / km",
+    "fuelType": "Diesel",
+    "idealFor": "Family trips & Western Ghats drives",
+    "isAc": true,
+    "image": "/uploads/vehicles/veh-1791694171848-9eb4af-1791694171849.webp"
+  },
+  {
+    "id": "veh-1791693991671-b1387b",
+    "name": "Force Urbania",
+    "seatingCapacity": "15+1 Seater",
+    "seatsCount": 16,
+    "category": "Luxury Coach",
+    "acType": "Dual Zone Automatic AC",
+    "luggageCapacity": "4 Large Bags",
+    "features": [
+      "Pushback Luxury Seats",
+      "Experienced Mountain Chauffeur",
+      "Sanitized & GPS Enabled"
+    ],
+    "enabled": true,
+    "featured": false,
+    "description": "Enjoy spacious seating, premium comfort, and a smooth journey with the Force Urbania, ideal for group tours, family trips, corporate travel, and outstation journeys.",
+    "pricePerKm": "₹18 / km",
+    "fuelType": "Diesel",
+    "idealFor": "Family trips & Western Ghats drives",
+    "isAc": true,
+    "image": "/uploads/vehicles/veh-1791693991671-b1387b-1791693991671.webp"
+  },
+  {
+    "id": "veh-1791693854993-795289",
+    "name": "Toyota Innova Crysta",
+    "seatingCapacity": "6+1 Seater",
+    "seatsCount": 7,
+    "category": "MPV",
+    "acType": "Dual Zone Automatic AC",
+    "luggageCapacity": "4 Large Bags",
+    "features": [
+      "Pushback Luxury Seats",
+      "Experienced Mountain Chauffeur",
+      "Sanitized & GPS Enabled"
+    ],
+    "enabled": true,
+    "featured": true,
+    "registrationNumber": "KA09AB9088",
+    "description": "Enjoy a comfortable and spacious ride with the Toyota Innova Crysta, perfect for family trips, airport transfers, and outstation journeys.",
+    "pricePerKm": "₹18 / km",
+    "dailyRate": "₹3,800 / day",
+    "fuelType": "Diesel",
+    "idealFor": "Family trips & Western Ghats drives",
+    "isAc": true,
+    "image": "/uploads/vehicles/veh-1791693854993-795289-1791693854994.webp"
+  },
+  {
+    "id": "veh-1791692982205-8198ad",
+    "name": "Toyota Innova hycros",
+    "seatingCapacity": "6+1 Seater",
+    "seatsCount": 7,
+    "category": "MPV",
+    "acType": "Dual Zone Automatic AC",
+    "luggageCapacity": "4 Large Bags",
+    "features": [
+      "Pushback Luxury Seats",
+      "Experienced Mountain Chauffeur",
+      "Sanitized & GPS Enabled"
+    ],
+    "enabled": true,
+    "featured": false,
+    "description": "Premium Comfort: Spacious interiors with comfortable seating and air conditioning. Perfect for Every Trip: Ideal for family tours, airport transfers, and outstation travel.",
+    "pricePerKm": "₹18 / km",
+    "fuelType": "Diesel",
+    "idealFor": "Family trips & Western Ghats drives",
+    "isAc": true,
+    "image": "/uploads/vehicles/veh-1791692982205-8198ad-1791692982207.webp"
+  }
+]
